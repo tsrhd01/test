@@ -9,7 +9,7 @@
     "github_link": {
         "user": "tsrhd",
         "repo": "test",
-        "branch": "main", //e.g. main
+        "branch": "main",
         "files": [
           "data.json",
           "index.css",
