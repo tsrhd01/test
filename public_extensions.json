@@ -2,7 +2,7 @@
   {
     "name": "xxx",
     "description": "CSS CLASS",
-    "type": "Theme",
+    "type": "CSS CLASS",
     "icon": "icon.png",
     "author": "tsrhd",
     "version": "1.3",
