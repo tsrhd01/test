@@ -16,5 +16,23 @@
           "icon.png"
         ]
       }
+  },
+  {
+    "name": "yyy",
+    "description": "CSS CLASS",
+    "icon": "icon.png",
+    "type": "CSS CLASS",
+    "author": "tsrhd",
+    "version": "1.0.0",
+    "github_link": {
+        "user": "tsrhd01",
+        "repo": "oxm-engineering-css-class",
+        "branch": "main",
+        "files": [
+          "data.json",
+          "index.css",
+          "icon.png"
+        ]
+      }
   }
 ]
