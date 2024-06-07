@@ -52,5 +52,24 @@
           "icon.png"
         ]
       }
+  },
+  {
+    "name": "ClockX",
+    "description": "The Uncool Clock",
+    "icon": "icon.png",
+    "type": "Editor Template",
+    "author": "tsrhd",
+    "version": "1.2",
+    "tag": "clockx-view",
+    "github_link": {
+        "user": "tsrhd01",
+        "repo": "oxm-clock-widget",
+        "branch": "main",
+        "files": [
+          "data.json",
+          "index.js",
+          "icon.png"
+        ]
+      }
   }
 ]
