@@ -34,5 +34,23 @@
           "icon.png"
         ]
       }
+  },
+  {
+    "name": "White Theme",
+    "description": "The Uncool Theme",
+    "icon": "icon.png",
+    "type": "Theme",
+    "author": "tsrhd",
+    "version": "1.1",
+    "github_link": {
+        "user": "tsrhd01",
+        "repo": "oxm-white-theme",
+        "branch": "main",
+        "files": [
+          "data.json",
+          "index.css",
+          "icon.png"
+        ]
+      }
   }
 ]
