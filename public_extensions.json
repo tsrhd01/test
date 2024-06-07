@@ -71,5 +71,25 @@
           "icon.png"
         ]
       }
+  },
+  {
+    "name": "Dom",
+    "description": "Testing innerHTML",
+    "icon": "icon.png",
+    "type": "Editor Template",
+    "author": "tsrhd",
+    "tag": "dom-view",
+    "version": "1.2",
+    "status": "Enabled",
+    "github_link": {
+        "user": "tsrhd01",
+        "repo": "oxm-dom-test",
+        "branch": "main",
+        "files": [
+          "data.json",
+          "index.js",
+          "icon.png"
+        ]
+      }
   }
 ]
