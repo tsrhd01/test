@@ -91,5 +91,24 @@
           "icon.png"
         ]
       }
+  },
+  {
+    "name": "Mark",
+    "description": "Bold Baby!",
+    "icon": "icon.png",
+    "type": "Editor Extension",
+    "author": "tsrhd",
+    "version": "1.0",
+    "github_link": {
+        "user": "tsrhd01",
+        "repo": "oxm-mark-test",
+        "branch": "main",
+        "files": [
+          "data.json",
+          "index.esm.js",
+          "icon.png"
+        ]
+      }
   }
+
 ]
