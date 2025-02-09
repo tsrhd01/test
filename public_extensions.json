@@ -69,7 +69,7 @@
         "branch": "main",
         "files": [
           "data.json",
-          "index.js",
+          "index.esm.js",
           "icon.png"
         ]
       }
