@@ -111,6 +111,28 @@
           "icon.png"
         ]
       }
+  },
+    {
+    "name": "Clock",
+    "description": "Uncool Digital Clock",
+    "icon": "icon.png",
+    "type": "Editor Template",
+    "author": "tsrhd",
+    "tag": "clock-view",
+    "version": "1.0",
+    "status": "Enabled",
+    "github_link": {
+      "user": "tsrhd01",
+      "repo": "oxm-digital-clock",
+      "branch": "main",
+      "files": [
+        "data.json",
+        "index.esm.js",
+        "index.esm.css",
+        "icon.png"
+      ]
+    }
   }
+
 
 ]
