@@ -18,6 +18,25 @@
       }
   },
   {
+    "name": "taskcount",
+    "description": "Got it done!",
+    "icon": "icon.png",
+    "type": "Editor Template",
+    "author": "tsrhd",
+    "tag": "taskcount-view",
+    "version": "1.0",
+    "github_link": {
+      "user": "tsrhd01",
+      "repo": "oxm-taskcount",
+      "branch": "main",
+      "files": [
+        "data.json",
+        "index.esm.js",
+        "icon.png"
+      ]
+    }
+  },
+  {
     "name": "yyy",
     "description": "CSS CLASS",
     "icon": "icon.png",
